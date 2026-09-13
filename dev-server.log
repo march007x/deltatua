@@ -1,0 +1,119 @@
+﻿
+> delta@0.1.0 dev
+> next dev
+
+node.exe :  ⚠ Port 3000 is in use by process 13532, using available port 3003 instead.
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ( ⚠ Port 3000 is...t 3003 instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:3003
+   - Network:      http://192.168.1.131:3003
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1855ms
+ ✓ Compiled /middleware in 276ms (173 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 5s (941 modules)
+ GET / 200 in 5775ms
+ ✓ Compiled /courses in 616ms (863 modules)
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /courses 200 in 1604ms
+ ✓ Compiled /login in 378ms (871 modules)
+ GET /login 200 in 534ms
+ ○ Compiling /plan ...
+ ✓ Compiled /plan in 719ms (966 modules)
+ GET /plan 307 in 1723ms
+ GET /login 200 in 110ms
+ GET /login 200 in 100ms
+ ✓ Compiled /today in 544ms (1008 modules)
+ GET /today 307 in 1403ms
+ GET /login 200 in 110ms
+ GET /login 200 in 110ms
+ ✓ Compiled /tasks in 413ms (1018 modules)
+ GET /tasks 307 in 1196ms
+ GET /login 200 in 92ms
+ GET /login 200 in 95ms
+ ○ Compiling /exams ...
+ ✓ Compiled /exams in 790ms (1029 modules)
+ GET /exams 200 in 1034ms
+ ✓ Compiled /exam in 455ms (1041 modules)
+ GET /exam 200 in 1259ms
+ ○ Compiling /exam/[id] ...
+ ✓ Compiled /exam/[id] in 751ms (1055 modules)
+ GET /exam 200 in 134ms
+ GET /exam/m4-1 200 in 1898ms
+ ✓ Compiled /practice in 499ms (1065 modules)
+ GET /practice 200 in 1226ms
+ ✓ Compiled /practice/[slug] in 515ms (1075 modules)
+ GET /practice 200 in 109ms
+ GET /practice/set-basic 200 in 1983ms
+ ○ Compiling /progress ...
+ ✓ Compiled /progress in 617ms (1106 modules)
+ GET /progress 200 in 1352ms
+ ○ Compiling /lesson/[slug] ...
+ ✓ Compiled /lesson/[slug] in 834ms (1169 modules)
+ GET /progress 200 in 111ms
+ GET /lesson/set-basic 200 in 2536ms
+ ✓ Compiled /account in 575ms (1177 modules)
+ GET /account 307 in 801ms
+ GET /lesson/set-basic 200 in 264ms
+ GET /login 200 in 267ms
+ ✓ Compiled /_not-found in 544ms (1181 modules)
+ GET /does-not-exist-404-check 404 in 697ms
+ ✓ Compiled in 165ms (428 modules)
+ GET / 200 in 256ms
+ ✓ Compiled in 500ms (428 modules)
+ GET /courses 200 in 494ms
+ ✓ Compiled in 226ms (428 modules)
+ GET /login 200 in 216ms
+ ✓ Compiled in 264ms (428 modules)
+ GET /plan 307 in 257ms
+ GET /login 200 in 61ms
+ GET /login 200 in 103ms
+ ✓ Compiled in 255ms (428 modules)
+ GET /today 307 in 256ms
+ GET /login 200 in 60ms
+ GET /login 200 in 109ms
+ ✓ Compiled in 247ms (428 modules)
+ GET /tasks 307 in 237ms
+ GET /login 200 in 58ms
+ GET /login 200 in 102ms
+ GET /exams 200 in 173ms
+ GET /exam 200 in 95ms
+ ✓ Compiled in 2.1s (428 modules)
+ ✓ Compiled in 210ms (428 modules)
+ GET /exam 200 in 43ms
+ ✓ Compiled in 314ms (428 modules)
+ GET /exam/m4-1 200 in 330ms
+ ✓ Compiled in 249ms (428 modules)
+ GET /practice 200 in 235ms
+ ✓ Compiled in 263ms (428 modules)
+ GET /practice/set-basic 200 in 272ms
+ ✓ Compiled in 254ms (428 modules)
+ GET /progress 200 in 246ms
+ ✓ Compiled in 392ms (428 modules)
+ GET /lesson/set-basic 200 in 549ms
+ ✓ Compiled in 244ms (428 modules)
+ GET /account 307 in 238ms
+ GET /login 200 in 182ms
+ GET /does-not-exist-404-check 404 in 223ms
+ ✓ Compiled in 249ms (428 modules)
+ ✓ Compiled in 174ms (428 modules)
+ GET /courses 200 in 257ms
+ GET /practice/set-basic 200 in 118ms
+ GET /courses 200 in 326ms
+ GET /practice/set-basic 200 in 139ms
+ GET /exam/m4-1 200 in 219ms
+ GET /lesson/set-basic 200 in 459ms
+ GET /this-page-does-not-exist-xyz 404 in 64ms
+ GET /courses 200 in 28ms
+ ✓ Compiled in 868ms (982 modules)
+ ✓ Compiled in 270ms (428 modules)
+ ✓ Compiled in 197ms (428 modules)
+ ✓ Compiled in 217ms (428 modules)
+ ✓ Compiled in 230ms (428 modules)
